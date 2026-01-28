@@ -22,7 +22,7 @@ npm run dev
 ## Test Output
 
 ```
- RUN  v4.0.18 C:/Users/avdus/Desktop/Own codee/testForJob/Prompt edit
+ RUN  v4.0.18 /path/to/project
 
  ✓ src/ParamEditor.test.tsx (3 tests) 68ms
    ✓ ParamEditor (3)
